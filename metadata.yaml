@@ -1,0 +1,28 @@
+_repo: '-------_34084'
+_version: 0.1.0
+alternative_title: Horadanshaku tabimiyage
+covers:
+- cover_type: archival
+  image_path: 34084-h/images/book_cover.jpg
+creator:
+  author:
+    agent_name: Sasaki, Kuni
+    alias: 佐々木邦
+    birthdate: 1883
+    deathdate: 1964
+    gutenberg_agent_id: '36750'
+    url: http://www.gutenberg.org/2009/agents/36750
+description: ''
+gutenberg_issued: '2010-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34084'
+language: ja
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Japanese literature'
+title: 法螺男爵旅土産
+url: http://www.gutenberg.org/ebooks/34084
